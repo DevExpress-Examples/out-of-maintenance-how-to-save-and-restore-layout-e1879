@@ -1,7 +1,7 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [Default.aspx](./CS/ASPxPivotGrid_SaveAndRestoreLayout/Default.aspx) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_SaveAndRestoreLayout/Default.aspx.vb))
+* [Default.aspx](./CS/ASPxPivotGrid_SaveAndRestoreLayout/Default.aspx) (VB: [Default.aspx](./VB/ASPxPivotGrid_SaveAndRestoreLayout/Default.aspx))
 * [Default.aspx.cs](./CS/ASPxPivotGrid_SaveAndRestoreLayout/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_SaveAndRestoreLayout/Default.aspx.vb))
 <!-- default file list end -->
 # How to Save and Restore Layout
