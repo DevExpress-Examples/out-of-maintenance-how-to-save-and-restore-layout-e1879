@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/ASPxPivotGrid_SaveAndRestoreLayout/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/ASPxPivotGrid_SaveAndRestoreLayout/Default.aspx.vb))
 <!-- default file list end -->
 # How to Save and Restore Layout
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e1879/)**
+<!-- run online end -->
 
 
 <p>The following example shows how to save a pivot grid's layout to a string and then restore it.</p>
