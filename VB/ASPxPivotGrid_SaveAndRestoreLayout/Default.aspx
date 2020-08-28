@@ -1,12 +1,12 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="true" CodeBehind="Default.aspx.vb"
 		   Inherits="SaveAndRestoreLayout._Default" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v13.1, Version=13.1.4.0,
+<%@ Register Assembly="DevExpress.Web.ASPxPivotGrid.v13.1, Version=13.1.14.0,
 		   Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 		   Namespace="DevExpress.Web.ASPxPivotGrid"
 		   TagPrefix="dx" %>
 
-<%@ Register assembly="DevExpress.Web.v13.1, Version=13.1.4.0,
+<%@ Register assembly="DevExpress.Web.v13.1, Version=13.1.14.0,
 		   Culture=neutral, PublicKeyToken=b88d1754d700e49a"
 		   namespace="DevExpress.Web.ASPxEditors"
 		   tagprefix="dx" %>
