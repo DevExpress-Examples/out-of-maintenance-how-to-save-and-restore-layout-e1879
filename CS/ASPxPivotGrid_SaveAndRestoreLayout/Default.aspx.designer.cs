@@ -101,7 +101,7 @@ namespace SaveAndRestoreLayout {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton ASPxButton1;
+        protected global::DevExpress.Web.ASPxButton ASPxButton1;
         
         /// <summary>
         /// ASPxButton2 control.
@@ -110,6 +110,6 @@ namespace SaveAndRestoreLayout {
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::DevExpress.Web.ASPxEditors.ASPxButton ASPxButton2;
+        protected global::DevExpress.Web.ASPxButton ASPxButton2;
     }
 }
